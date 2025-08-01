@@ -18,6 +18,12 @@ then
 go build -o hokage main.go
 ```
 
+then
+
+```shell
+./hokage
+```
+
 Showcase
 ![hokage](https://github.com/Omotolani98/hokage/blob/main/img/hokage-help.png?raw=true)
 ![hokage-apply](https://github.com/Omotolani98/hokage/blob/main/img/hokage-apply-help.png?raw=true)
