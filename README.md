@@ -19,5 +19,5 @@ go build -o hokage main.go
 ```
 
 Showcase
-![hokage](./img/hokage-help.png)
-![hokage-apply](./img/hokage-apply-help.png)
+![hokage](https://github.com/Omotolani98/hokage/blob/main/img/hokage-help.png)
+![hokage-apply](https://github.com/Omotolani98/hokage/blob/main/img/hokage-apply-help.png)
